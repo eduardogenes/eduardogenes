@@ -8,7 +8,9 @@ HTML | CSS | JavaScript: Criação de interfaces dinâmicas e interativas, com u
 
 React.js | Next.js (em aprendizagem): Explorando o desenvolvimento de aplicações web modernas e otimizadas.
 
+
 🎓 Formação: Estudante de Análise e Desenvolvimento de Sistemas.
+
 
 ✨ Comprometimento e Inovação: 
 Minha abordagem é pautada no comprometimento com a qualidade e na busca constante por soluções inovadoras. Estou animado para contribuir em projetos desafiadores e aprender com profissionais inspiradores.
