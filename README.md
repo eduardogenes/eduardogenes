@@ -5,6 +5,7 @@
 🔧 Principais Habilidades:
 
 HTML | CSS | JavaScript: Criação de interfaces dinâmicas e interativas, com um design bem estruturado e responsivo.
+
 React.js | Next.js (em aprendizagem): Explorando o desenvolvimento de aplicações web modernas e otimizadas.
 
 🎓 Formação: Estudante de Análise e Desenvolvimento de Sistemas.
