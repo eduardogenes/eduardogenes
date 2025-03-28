@@ -1,17 +1,22 @@
-👋 Olá! Sou **Eduardo Genes**, Desenvolvedor Front-End cursando Análise e Desenvolvimento de Sistemas.
+Sempre gostei de resolver problemas e encontrar maneiras mais inteligentes de fazer as coisas. Foi assim que descobri a tecnologia — e desde então venho mergulhando nesse universo com foco em Cloud Computing e Desenvolvimento de Software.
 
-💡 **Sobre Mim:**  
-Iniciei minha trajetória no desenvolvimento web focando em ferramentas essenciais para construir interfaces dinâmicas e funcionais. Tenho conhecimento em **HTML, CSS e JavaScript**, o que me permite criar sites interativos e bem estruturados. Atualmente, estou me especializando em **React.js** e **Next.js**, tecnologias que utilizo para desenvolver aplicações modernas e escaláveis.
+Atualmente curso Análise e Desenvolvimento de Sistemas e estou me preparando para a certificação AWS Cloud Practitioner. Tenho experiência prática com HTML, CSS, JavaScript, React.js e Git, adquirida em cursos, projetos pessoais e acadêmicos.
 
-🔧 **Principais Habilidades:**  
-- **HTML | CSS | JavaScript:** Criação de interfaces dinâmicas e interativas, com um design bem estruturado e responsivo.  
-- **React.js | Next.js (em aprendizagem):** Explorando o desenvolvimento de aplicações web modernas e otimizadas.
+Busco minha primeira oportunidade como estagiário, pois tenho consciência de que, para alcançar um aprendizado contínuo e consistente, é essencial construir uma base sólida, aplicar meus conhecimentos, aprender com uma equipe experiente e crescer junto com o time.
 
-🎓 **Formação:**  
-- Estudante de **Análise e Desenvolvimento de Sistemas**.
+Antes da tecnologia, atuei em setores como mercado hoteleiro, varejo, administração pública e cruzeiros internacionais, sempre em ambientes exigentes e voltados para atendimento, análise e operação.
 
-✨ **Comprometimento e Inovação:**  
-Minha abordagem é pautada no comprometimento com a qualidade e na busca constante por soluções inovadoras. Estou animado para contribuir em projetos desafiadores e aprender com profissionais inspiradores.
+Essas experiências me ajudaram a desenvolver habilidades como organização, comunicação clara, pensamento analítico e foco em resultados, que hoje aplico nos meus estudos e projetos em tecnologia. Também tive vivência prática com o inglês no dia a dia, atuando em ambientes multiculturais e de alta demanda — o que fortaleceu minha adaptabilidade e resiliência.
+
+Se você procura alguém com forte espírito de equipe, iniciativa, curioso e comprometido com resultados, estou pronto para contribuir desde o primeiro dia.
+
+🚀 Vamos nos conectar e explorar oportunidades para criar soluções incríveis juntos?
+
+🔧Soft Skills:
+     Trabalho em equipe | Proatividade | Comunicação clara  |  Curiosidade
+     Estabilidade emocional | Mentalidade de crescimento | Resolução de problemas
+
+🌍 Disponível para vagas remotas, híbridas ou presenciais
 
 📬 **Entre em Contato:**  
 ✉️ [E-mail](mailto:eduardogenes95@gmail.com)  
