@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="376" viewBox="0 0 1200 376" role="img" aria-label="Trajetória de Eduardo Genes — da operação ao código">
+  <rect width="1200" height="376" rx="10" fill="#FAF8F5"/>
+  <rect x="0.5" y="0.5" width="1199" height="375" rx="9.5" fill="none" stroke="#1E1A14" stroke-opacity="0.16"/>
+  <text x="48" y="36" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#6b645a">// EXPERIENCE.LOG</text>
+  <text x="1152" y="36" text-anchor="end" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#6b645a">OPERAÇÃO, DADOS E PROCESSO <tspan fill="#B25400">→ CÓDIGO</tspan></text>
+  <rect x="48" y="48" width="1104" height="1" fill="#1E1A14" fill-opacity="0.45"><animate attributeName="width" values="0;1104" dur="0.8s" fill="freeze"/></rect>
+  <line x1="178" y1="78" x2="178" y2="346" stroke="#1E1A14" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="0.1 11" stroke-linecap="round">
+    <animate attributeName="y2" values="78;78;346" keyTimes="0;0.1;1" dur="1.8s" fill="freeze"/>
+  </line>
+  <g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.15;1" dur="2s" fill="freeze"/>
+    <text x="160" y="95" text-anchor="end" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5" fill="#565046">2025 →</text>
+    <circle cx="178" cy="90" r="6" fill="#E38D3D" stroke="#FAF8F5" stroke-width="2"><animate attributeName="r" values="6;6;7.5;6" keyTimes="0;0.5;0.75;1" dur="3s" begin="2s" repeatCount="indefinite"/></circle>
+    <text x="200" y="96" font-family="Space Grotesk, Arial, sans-serif" font-size="17" font-weight="600" fill="#1E1A14">Desenvolvedor Full Stack — IMTS Group</text><rect x="556" y="81" width="60" height="20" rx="10" fill="none" stroke="#B25400" stroke-width="1.2"/><text x="586" y="95" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#B25400">ATUAL</text>
+    <text x="200" y="117" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="14" fill="#565046">plataforma de ensino multitenant em produção em colégios pelo Brasil — experiência do aluno do zero.</text>
+  </g><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.27;1" dur="2s" fill="freeze"/>
+    <text x="160" y="153" text-anchor="end" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5" fill="#565046">2025 →</text>
+    <circle cx="178" cy="148" r="5" fill="#FAF8F5" stroke="#1E1A14" stroke-width="2"/>
+    <text x="200" y="154" font-family="Space Grotesk, Arial, sans-serif" font-size="17" font-weight="600" fill="#1E1A14">Desenvolvedor Web — freelance</text>
+    <text x="200" y="175" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="14" fill="#565046">sites e produtos no ar pra clientes reais — design, código, domínio e SEO, de ponta a ponta.</text>
+  </g><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.39;1" dur="2s" fill="freeze"/>
+    <text x="160" y="211" text-anchor="end" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5" fill="#565046">2023–24</text>
+    <circle cx="178" cy="206" r="5" fill="#FAF8F5" stroke="#1E1A14" stroke-width="2"/>
+    <text x="200" y="212" font-family="Space Grotesk, Arial, sans-serif" font-size="17" font-weight="600" fill="#1E1A14">Analista de Gestão de Receitas — Nano Hotéis</text>
+    <text x="200" y="233" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="14" fill="#565046">automatizei cálculos de reservas — a primeira ferramenta interna que virou código de verdade.</text>
+  </g><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.51;1" dur="2s" fill="freeze"/>
+    <text x="160" y="269" text-anchor="end" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5" fill="#565046">2020–23</text>
+    <circle cx="178" cy="264" r="5" fill="#FAF8F5" stroke="#1E1A14" stroke-width="2"/>
+    <text x="200" y="270" font-family="Space Grotesk, Arial, sans-serif" font-size="17" font-weight="600" fill="#1E1A14">Articulador Fiscal — Casa Civil / COPOL</text>
+    <text x="200" y="291" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="14" fill="#565046">auditorias, documentos e prazos — a base da atenção ao detalhe.</text>
+  </g><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.63;1" dur="2s" fill="freeze"/>
+    <text x="160" y="327" text-anchor="end" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5" fill="#565046">ANTES</text>
+    <circle cx="178" cy="322" r="5" fill="#FAF8F5" stroke="#1E1A14" stroke-width="2"/>
+    <text x="200" y="328" font-family="Space Grotesk, Arial, sans-serif" font-size="17" font-weight="600" fill="#1E1A14">vendas, hotelaria e um cruzeiro internacional</text>
+    <text x="200" y="349" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="14" fill="#565046">operação, dados e gente — em inglês, sob pressão. Vira vantagem.</text>
+  </g>
+</svg>
