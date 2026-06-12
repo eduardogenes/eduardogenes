@@ -28,11 +28,11 @@
 
 ### 04 — Um ano de commits
 
-_Duas fitas do mesmo código — a pessoal e a profissional:_
+_Duas contas, um código — somadas dia a dia:_
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardogenes&bg_color=FAF8F5&color=565046&line=E38D3D&point=1E1A14&area=true&area_color=E38D3D&hide_border=true&radius=10&custom_title=pessoal%20%E2%80%94%20%40eduardogenes" width="49.5%" alt="Contribuições da conta pessoal — @eduardogenes" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardogenes-imts&bg_color=FAF8F5&color=565046&line=51B67A&point=1E1A14&area=true&area_color=51B67A&hide_border=true&radius=10&custom_title=trabalho%20%E2%80%94%20%40eduardogenes-imts" width="49.5%" alt="Contribuições da conta profissional — @eduardogenes-imts" />
+<img src="./assets/commits.svg" width="100%" alt="Calendário de contribuições do último ano — soma diária de @eduardogenes (pessoal) e @eduardogenes-imts (trabalho)" />
 
-<sub><code>café = pessoal · verde = trabalho — como nas barras do símbolo. Atualizam sozinhas.</code></sub>
+<sub><code>@eduardogenes + @eduardogenes-imts · regenerado todo dia por uma github action</code></sub>
 
 ### 05 — Contato
 
@@ -56,7 +56,7 @@ _Sem formulário — mensagem boa não merece morrer num inbox de formulário. M
 
 **03 — Toolbox** — `React` `TypeScript` `Angular` `Next.js` `Tailwind` `Node` `Python` `MySQL` `Supabase` `AWS` · AWS Cloud Practitioner '25 · graduating Jul 2026 · English C1.
 
-**04 — A year of commits** — two strands of the same code: personal (café) and work (green) — the graphs above update on their own.
+**04 — A year of commits** — two accounts, one code: the calendar above sums daily contributions from @eduardogenes (personal) and @eduardogenes-imts (work), rebuilt daily by a github action.
 
 **05 — Contact** — **[eduardogenes95@gmail.com](mailto:eduardogenes95@gmail.com)** · [edugenes.dev](https://edugenes.dev) · [/in/eduardogenes](https://linkedin.com/in/eduardogenes)
 
