@@ -4,7 +4,8 @@ import { writeFileSync, mkdirSync } from "node:fs";
 const USERS = ["eduardogenes", "eduardogenes-imts"]; // pessoal, trabalho
 const API = "https://github-contributions-api.jogruber.de/v4/";
 
-function render(days, totals, todayStr){
+function render(days, totals, todayStr, T){
+  const { TINTA, PAPEL, DEEP, MUT, COLS } = T;
   const cellSz=15, pitch=18.5, x0=150, y0=84;
   const offset = new Date(days[0].date+"T00:00:00").getDay();
   const max = Math.max(1, ...days.map(d=>d.count));
@@ -53,8 +54,13 @@ function render(days, totals, todayStr){
 }
 
 const MONO = "JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace";
-const TINTA="#1E1A14", PAPEL="#FAF8F5", DEEP="#B25400", MUT="#6b645a";
-const COLS = ["#ECE5DA","#F2D9BB","#ECB97F","#E38D3D","#B25400"];
+// papel · tinta · café — claro e a versão "café noturno" pro dark
+const THEMES = {
+  light: { TINTA:"#1E1A14", PAPEL:"#FAF8F5", DEEP:"#B25400", MUT:"#6b645a",
+           COLS:["#ECE5DA","#F2D9BB","#ECB97F","#E38D3D","#B25400"] },
+  dark:  { TINTA:"#ECE5DA", PAPEL:"#14110D", DEEP:"#DB7A2E", MUT:"#9A9082",
+           COLS:["#241D15","#4E3318","#86511F","#C56A22","#EFA24C"] },
+};
 
 const res = await Promise.all(USERS.map(u => fetch(API + u + "?y=last").then(r => r.ok ? r.json() : null).catch(() => null)));
 const maps = res.map(r => { const m = {}; ((r && r.contributions) || []).forEach(c => { m[c.date] = c.count; }); return m; });
@@ -66,5 +72,6 @@ const totals = maps.map(m => Object.values(m).reduce((a, b) => a + b, 0));
 const today = new Date().toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit", year: "numeric", timeZone: "America/Fortaleza" });
 
 mkdirSync("assets", { recursive: true });
-writeFileSync("assets/commits.svg", render(days, totals, today));
-console.log("commits.svg ok — total", totals[0] + totals[1]);
+writeFileSync("assets/commits.svg", render(days, totals, today, THEMES.light));
+writeFileSync("assets/commits-dark.svg", render(days, totals, today, THEMES.dark));
+console.log("commits.svg + commits-dark.svg ok — total", totals[0] + totals[1]);

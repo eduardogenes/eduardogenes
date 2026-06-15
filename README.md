@@ -3,7 +3,10 @@
      ║  Identidade: edugenes_ (papel · tinta · café)              ║
      ╚════════════════════════════════════════════════════════════╝ -->
 
-<img src="./assets/banner-edugenes.svg" width="100%" alt="Eduardo Genes — desenvolvedor full stack — edugenes_" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-edugenes-dark.svg" />
+  <img src="./assets/banner-edugenes.svg" width="100%" alt="Eduardo Genes — desenvolvedor full stack — edugenes_" />
+</picture>
 
 <br/><br/>
 
@@ -20,17 +23,26 @@
 
 ### 02 — Trajetória
 
-<img src="./assets/trajetoria.svg" width="100%" alt="Trajetória: IMTS Group (atual), freelance, Nano Hotéis, Casa Civil — operação, dados e processo antes do código" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/trajetoria-dark.svg" />
+  <img src="./assets/trajetoria.svg" width="100%" alt="Trajetória: IMTS Group (atual), freelance, Nano Hotéis, Casa Civil — operação, dados e processo antes do código" />
+</picture>
 
 ### 03 — Caixa de ferramentas
 
-<img src="./assets/ferramentas.svg" width="100%" alt="Stack: React, TypeScript, Angular, Next.js, Tailwind, Node, Python, MySQL, Supabase, AWS, Vercel, Docker, Git, Figma" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ferramentas-dark.svg" />
+  <img src="./assets/ferramentas.svg" width="100%" alt="Stack: React, TypeScript, Angular, Next.js, Tailwind, Node, Python, MySQL, Supabase, AWS, Vercel, Docker, Git, Figma" />
+</picture>
 
 ### 04 — Um ano de commits
 
 _Duas contas, um código — somadas dia a dia:_
 
-<img src="./assets/commits.svg" width="100%" alt="Calendário de contribuições do último ano — soma diária de @eduardogenes (pessoal) e @eduardogenes-imts (trabalho)" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/commits-dark.svg" />
+  <img src="./assets/commits.svg" width="100%" alt="Calendário de contribuições do último ano — soma diária de @eduardogenes (pessoal) e @eduardogenes-imts (trabalho)" />
+</picture>
 
 <sub><code>@eduardogenes + @eduardogenes-imts · regenerado todo dia por uma github action</code></sub>
 
